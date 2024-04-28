@@ -1,6 +1,6 @@
 # Amianted Customizable cursor
 
-**[Click here](url) to view**
+**[Click here](https://mteju.github.io/Customizable-Cursor/) to view**
 
 ## Screenshot 1
 ![Online Converter - Convert Image, Video, Audio,   Document Files and 3 more pages - Personal - Microsoft​ Edge 28-04-2024 13_56_11](https://github.com/MTeju/Customizable-Cursor/assets/106768538/5342cb8c-174f-4427-bf47-dc953dd287bd)
