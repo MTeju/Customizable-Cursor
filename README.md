@@ -1,4 +1,6 @@
-# Amianted Customizable cursor
+# Amianted Customizable cursor using GSAP the JavaScript Library used for animating the things. 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,gsap)](https://skillicons.dev)
 
 **[Click here](https://mteju.github.io/Customizable-Cursor/) to view**
 
